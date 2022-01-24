@@ -1,0 +1,16 @@
+.pageStyle {
+  text-align: center;
+}
+
+.pageStyle button {
+  margin: 15px;
+  padding: 10px;
+  box-shadow: hotpink;
+  background-color: rgb(206, 12, 12);
+  text-transform: uppercase;
+  border-radius: 10px;
+}
+
+.pageStyle h2 {
+  padding-top: 50px;
+}
